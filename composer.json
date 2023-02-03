@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-mvc",
+    "name": "oldcodefork/laminas-mvc",
     "description": "Laminas's event-driven MVC layer, including MVC Applications, Controllers, and Plugins",
     "license": "BSD-3-Clause",
     "keywords": [
